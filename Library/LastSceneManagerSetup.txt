@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/ALP8310_Assets/Oak_Forest_Pack_/Scenes/OakForest_.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
